@@ -1,6 +1,6 @@
 ## About me
 
-Hello, Im Emiel and I am a 20 year old games programming student at the University Of Stafforshire.
+Hello, Im Emiel and I am a 20 year old games programming student at the University Of Staffordshire.
 
 <!--
 **DoekEmiel/DoekEmiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
