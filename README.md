@@ -1,10 +1,12 @@
 ## About me
 
-Hello, Im Emiel and I am a 20 year old games programming student at the University Of Staffordshire.
+Hello, Im Emiel and I am a 21 years old games programming student at the University Of Staffordshire.
 
 
+> [!IMPORTANT]
+> I NEED TO GET GOOD.
 
-
+<!--
 <details>
 <summary>My top languages</summary>
 
@@ -13,7 +15,7 @@ Hello, Im Emiel and I am a 20 year old games programming student at the Universi
 |<img src="Images/C-Plus-Plus.png" width = 50px /><img src="Images/C-Sharp.png" width = 50px/> <img src="Images/Python.png" width = 50px/>  |
 
 </details>
-
+-->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoekEmiel"/> -->
 <!--
 **DoekEmiel/DoekEmiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
