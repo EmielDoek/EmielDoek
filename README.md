@@ -1,6 +1,6 @@
 ## About me
 
-Hello, Im Emiel and I am a 21 years old games programming student at the University Of Staffordshire.
+Hello, Im Emiel and I am a 21 years old Final year games programming student at the University Of Staffordshire.
 
 
 > [!IMPORTANT]
