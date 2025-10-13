@@ -1,6 +1,8 @@
 ## About me
 
-Hello, Im Emiel and I am a 21 years old Final year games programming student at the University Of Staffordshire.
+Hello, Im Emiel and I am a 21 years old Final year games programming student at the University Of Staffordshire. There arent much widely know game devs/programmers from wales, not to say there are none at all but there isnt any which you could walk up to someone randomly and ask them if they know any, this also includes studios as most of the time they would just say wales interactive which only recently started making "propper" games.
+
+The games industry in wales needs a huge boost of recognition to compete with the other nations within the UK and I would love to be apart of the games community that can make that happen.
 
 
 > [!IMPORTANT]
