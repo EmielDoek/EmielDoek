@@ -6,7 +6,7 @@ The games industry in wales needs a huge boost of recognition to compete with th
 
 
 > [!IMPORTANT]
-> I NEED TO GET GOOD.
+> I need to make more repos public!
 
 <!--
 <details>
